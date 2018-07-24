@@ -27,10 +27,4 @@ $nome1 = "mamão"; /*Declarando novamente um novo nome na variavel $nome1 agora 
 
 echo $nome1;/*foi exibido na tela o novo nome declarado na variavel que acabou de ser limpa na tela*/
 
-
-
-
-
-
-
 /*Sempre lembrar que ao criar um codigo ele deve ser feito da melhor forma e mais explicada possivel para que outros programadores consigam dar suporte da melhor forma possivel*/
